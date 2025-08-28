@@ -15,7 +15,7 @@ Original form this [Repo](https://github.com/evansm7/pico-mac)
 | Pin 39 (VSYS)             | –        | –            | VCC (5V)                   | use power form external psu                                        |
 
 
-
+# Quick Flash
 you can download demo uf2 form [here](https://picomac.bluescsi.com/) if you're lazy(like me)
 Just drag & drop it onto your Pico’s USB drive after holding the BOOTSEL button while plugging in.
 
@@ -27,4 +27,5 @@ Using a breadboard may cause some signal noise If you want stability, it is reco
 The resistor must be 100Ω (not 100kΩ) and 68Ω
 
 
-MIT License
+**anything else?**
+if you want to compile it youself just read original repo [here](https://github.com/evansm7/pico-mac)
