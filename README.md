@@ -13,7 +13,7 @@ Original form this [Repo](https://github.com/evansm7/pico-mac)
 | Pin 25                    | GP19     | 68 Ω         | VSYNC (UGAVS)              | Vertical sync                                                      |
 | Pin 38 / Pin 23           | GND      | –            | VGA GND                    | Connect GND                                                        |
 | Pin 39 (VSYS)             | –        | –            | VCC (5V)                   | use power form external psu                                        |
-| ------------------------- | -------- | ------------ | -------------------------- | ------------------------------------------------------------------ |
+
 
 
 you can download demo uf2 form [here](https://picomac.bluescsi.com/) if you're lazy(like me)
