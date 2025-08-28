@@ -20,6 +20,10 @@ you can download demo uf2 form [here](https://picomac.bluescsi.com/) if you're l
 Just drag & drop it onto your Pico’s USB drive after holding the BOOTSEL button while plugging in.
 **Important Notes**
 Do not connect USB and external PSU at the same time
+
 Using a breadboard may cause some signal noise If you want stability, it is recommended to use a PCB or perfboard
+
 The resistor must be 100Ω (not 100kΩ) and 68Ω
+
+
 MIT License
