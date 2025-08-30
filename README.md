@@ -1,7 +1,8 @@
 # WelcomeToQuickStartForPico-mac
 
 # Why?
-	Everyone does Hackintosh with modern macOS.
+	
+ Everyone does Hackintosh with modern macOS.
 	I did Hackintosh… but literally ran Macintosh.
 	Because sometimes, future is overrated, retro is cooler.
 
