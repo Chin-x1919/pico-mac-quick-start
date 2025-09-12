@@ -34,7 +34,7 @@ supply from Pico pin 36.)
 # Quick Flash
 you can download demo uf2 form [here](https://picomac.bluescsi.com/) if you're lazy(like me)
 Just drag & drop it onto your Pico’s USB drive after holding the BOOTSEL button while plugging in but if you want
-build it youself go read original repo [here]([https://picomac.bluescsi.com/](https://github.com/evansm7/pico-mac))
+build it youself go read original repo [here](https://github.com/evansm7/pico-mac)
 
 # **Important Notes**
 Do not connect USB and external PSU at the same time
