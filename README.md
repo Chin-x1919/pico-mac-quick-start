@@ -18,6 +18,18 @@ Original form this [Repo](https://github.com/evansm7/pico-mac)
 | Pin 38 / Pin 23           | GND      | –            | VGA GND                    | Connect GND                                                        |
 | Pin 39 (VSYS)             | –        | –            | VCC (5V)                   | use power form external psu                                        |
 
+If you are including an SD card, the default pinout is as follows
+(this can be changed at build time, above):
+
+| GPIO/pin     | Pico pin     | Usage          |
+| ------------ | ------------ | -------------- |
+|   GP2        | 4            | SPI0 SCK       |
+|   GP3        | 5            | SPI0 TX (MOSI) |
+|   GP4        | 6            | SPI0 RX (MISO) |
+|   GP5        | 7            | SPI0 /CS       |
+
+(The SD card needs a good ground, e.g. Pico pin 8 nearby, and 3.3V
+supply from Pico pin 36.)
 
 # Quick Flash
 you can download demo uf2 form [here](https://picomac.bluescsi.com/) if you're lazy(like me)
